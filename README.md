@@ -1,0 +1,1 @@
+Projeto demonstração  um console app em .net Core com arquitetura DDD  por uma questão de padrão de código acabei optando por fazer ele todo em inglês  também cheguei a desenvolver boa parte  em asp.net mas esta em outro repositório
